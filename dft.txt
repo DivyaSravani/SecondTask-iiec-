@@ -27,7 +27,7 @@ Password:
        <input type="password" name="password"><br>
 Email iD :
        <input type="email" name="email" autofocus><br>
-       <button style="width:90px;height:40px;font-size:20px;background-color:lightpink"><a href="file:///C:/Users/admin/Desktop/firsttask1.html " target="_blank">Login</a></button>
+       <button style="width:90px;height:40px;font-size:20px;background-color:lightpink"><a href="http:/ip/cgi-bin/dft1.html " target="_blank">Login</a></button>
 </pre></div></div></body>
 
 </form>
